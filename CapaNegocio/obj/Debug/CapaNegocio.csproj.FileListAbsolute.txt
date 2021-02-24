@@ -1,0 +1,91 @@
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSer\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,37 @@
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Entidades\obj\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Entidades\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Entidades\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Entidades\obj\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Entidades\obj\Debug\Entidades.pdb
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\Entidades\bin\Debug\Entidades.dll
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\Entidades\bin\Debug\Entidades.pdb
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\Entidades\obj\Debug\Entidades.dll
+C:\Users\embie\OneDrive\Escritorio\2ºDAM 20-21\AccesoDatos\SerONoSerVacio\SerONoSer\Entidades\obj\Debug\Entidades.pdb
